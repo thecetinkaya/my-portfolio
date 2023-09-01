@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Tüm projeler",
+    "category": "all"
+  },
+  {
+    "id": 2,
+    "title": "React Projesi",
+    "category": "react",
+    "description": "Bu projede React kullanarak...",
+    "image":"https://avatars.githubusercontent.com/u/80540635?v=4"
+  },
+  {
+    "id": 3,
+    "title": "PHP Projesi",
+    "category": "php",
+    "description": "Bu projede PHP ile...",
+    "image":"https://avatars.githubusercontent.com/u/80540635?v=4"
+  },
+  {
+    "id": 4,
+    "title": "C++ Projesi",
+    "category": "cpp",
+    "description": "Bu projede C++ ile...",
+    "image": "https://avatars.githubusercontent.com/u/80540635?v=4"
+  },
+  {
+    "id": 5,
+    "title": "C# Projesi",
+    "category": "csharp",
+    "description": "Bu projede C# ile...",
+    "image":"https://avatars.githubusercontent.com/u/80540635?v=4"
+  }
+]

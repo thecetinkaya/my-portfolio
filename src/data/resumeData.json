@@ -1,0 +1,192 @@
+{
+    "contact": {
+        "title": "contact",
+        "name": "Burak",
+        "surname": "Cetinkaya",
+        "email": "burakcetinkaya26@gmail.com",
+        "phone": "05428407589",
+        "address": "Eskisehir/Turkey",
+        "website": "https://burakcetinkaya.com/",
+        "image": "/photo/image.jpg"
+    },
+    
+    "summary":{
+        "title": "summary",
+        "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur."
+    },
+    "skills":{
+        "title": "skills",
+        "skills": [
+            {
+                "id":"1",
+                "name": "C++",
+                "level": "90"
+            },
+            {
+                "id":"2",
+                "name": "CSS",
+                "level": "80"
+            },
+            {
+                "id":"3",
+                "name": "Javascript",
+                "level": "70"
+            },
+            {
+                "id":"4",
+                "name": "React",
+                "level": "60"
+            },
+            {
+                "id":"5",
+                "name": "Node.js",
+                "level": "50"
+            },
+            {
+                "id":"6",
+                "name": "Java",
+                "level": "40"
+            }
+           
+        ]
+    },
+    "experience":{
+        "title": "experience",
+        "company": [
+            {
+                "name": "Company 1",
+                "title": "Frontend Developer",
+                "date": "2019-2020",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet."
+            },
+            {
+                "name": "Company 2",
+                "title": "Frontend Developer",
+                "date": "2019-2020",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet."
+            },
+            {
+                "name": "Company 3",
+                "title": "Frontend Developer",
+                "date": "2019-2020",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet."
+            }
+        ]
+    },
+    "education":{
+        "title": "education",
+        "associate-degree": [
+            {
+                "name": "Burdur Mehmet Akif Ersoy University",
+                "title": "Computer Programming",
+                "date": "2018-2020"
+            },
+            {
+                "name": "Anadolu University",
+                "title": "Emergency and diaster managament",
+                "date": "2019-2021"
+            },
+            {
+                "name": "Ataturk University",
+                "title": "Civil air transport management",
+                "date": "2019-2021"
+            }
+        ],
+        "bachelor-degree": [
+            {
+                "name": "Cankiri Karatekin University",
+                "title": "Computer Engineering",
+                "date": "2021-nowadays"
+            }
+        ]
+    },
+   "projects": {
+        "title": "projects",
+        "projects": [
+            {
+                "name": "Project 1",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            },
+            {
+                "name": "Project 2",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            },
+            {
+                "name": "Project 3",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            }
+        ],
+        "certificates": [
+            {
+                "name": "Certificate 1",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            },
+            {
+                "name": "Certificate 2",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            },
+            {
+                "name": "Certificate 3",
+                "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam aliquet.",
+                "date": "2019-2020",
+                "image": "https://avatars.githubusercontent.com/u/56169582?v=4"
+            }
+        ]
+    },
+    "references":{
+        "title": "references",
+        "references": [
+            {
+                "name": "Reference 1",
+                "phone": "05428407589"
+            },
+            {
+                "name": "Reference 2",
+                "phone": "05428407589"
+            },
+            {
+                "name": "Reference 3",
+                "phone": "05428407589"
+            }
+        ]
+    },
+    "social-media":{
+        "title": "social-media",
+        "social-media": [
+            {
+                "name": "Github",
+                "link": "github.io/thecetinkaya"
+            },
+            {
+                "name": "Linkedin",
+                "link": "linkedin.com/in/thecetinkaya"
+            },
+            {
+                "name": "Twitter",
+                "link": "twitter.com/xburakcetinkaya"
+            },
+            {
+                "name": "Instagram",
+                "link": "instagram.com/thecetinkaya"
+            },
+            {
+                "name": "Pinterest",
+                "link": "pinterest.com/thecetinkaya"
+            },
+            {
+                "name": "StackOverflow",
+                "link": "https://stackoverflow.com/users/19952125/thecetinkaya"
+            }
+        ]
+    }
+}

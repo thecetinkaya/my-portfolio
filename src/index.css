@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital@1&display=swap');
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'josefin sans', sans-serif;
+  font-weight: 800;
+
+}
+.navbar-font{
+  font-family: 'exo 2', sans-serif;
+  font-weight: 800;
+}
+/* Renkler */
+.bg-primary {
+  @apply bg-indigo-900 text-white;
+}
+.bg-secondary {
+  @apply bg-red-400 text-white;
+}
+.skill-bar-fill {
+  background-color: #4caf50; /* Yeşil renk, doldurma rengi */
+  height: 100%;
+  width: 0; /* Başlangıçta dolu değil */
+  transition: width 0.5s ease-in-out; /* Animasyon için geçiş efekti */
+}
+
+/* index.css */
+
+/* Navbar Stilleri */
+.navbar {
+  @apply bg-gray-500 py-4 sticky top-0 z-50 navbar-font;
+}
+
+.navbar-logo {
+  @apply text-white text-lg no-underline;
+}
+
+.navbar-links {
+  @apply flex items-center;
+}
+
+.navbar-link {
+  @apply text-white ml-4 no-underline;
+}
+
+.navbar-link:hover {
+  @apply text-yellow-300;
+}
+
+/* Sayfa İçeriği Stilleri */
+.main-container {
+  @apply flex flex-col min-h-screen;
+}
+
+.container {
+  @apply flex-1 mx-auto p-8;
+}
+
+
+
+
+/* End */
+
+/* Home sayfası stilleri */
+
+.home{
+  @apply bg-black flex flex-col justify-center items-center min-h-screen;
+
+}
+.home h1{
+  @apply text-white text-center text-4xl mt-5;
+}
+.home p{
+  @apply text-white text-center text-2xl mt-5;
+}
+
+/* End */
+
+/* About sayfası stilleri */
+
+.photo {
+  @apply flex justify-center items-center;
+}
+.photo img{
+  @apply rounded-full;
+}
+.about h1{
+  @apply text-white ml-4 text-2xl ;
+}
+.about{
+  @apply bg-black;
+}
+.container{
+  @apply flex justify-center min-h-screen;
+}
+
+.about p{
+  @apply text-white mt-5 w-10/12 mx-auto;
+}
+.buttons{
+  @apply flex justify-center items-center;
+}
+
+/* End */
+
+/* Projects sayfası stilleri */
+
+.projects{
+  @apply bg-black min-h-screen;
+}
+.projects p{
+  @apply text-white mt-5 w-10/12 mx-auto;
+}
+.project-button{
+  @apply bg-slate-500 px-4 py-2 rounded-lg text-white ml-5 mt-4;
+}
+.projects img{
+  @apply rounded-xl max-w-sm;
+}
+.projects h1 {
+  @apply max-w-6xl mx-auto p-6;
+}
+
+/* End */
+
+/* Resume sayfası stilleri */
+.resume {
+  @apply bg-black min-h-screen p-8;
+}
+.resume p{
+  @apply text-white;
+}
+
+.resume-content {
+  @apply max-w-6xl mx-auto bg-slate-900 rounded-lg p-6 shadow-md;
+}
+
+.section {
+  @apply mb-8;
+}
+
+/* End */
